@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our James's slide!"
 ---
-James Bell Slide of magic and learning!
+Magic Slide of Learning!
 Use the left arrow to go back!
